@@ -1,5 +1,5 @@
 # minesweeper
-To play click--> https://lahatme.github.io/minesweeper_/
+To play - click--> https://lahatme.github.io/minesweeper_/
 
 
 #### Instructions :
