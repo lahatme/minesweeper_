@@ -2,7 +2,7 @@
 To play click--> https://lahatme.github.io/minesweeper_/
 
 
-## Instructions :
+#### Instructions :
 The purpose of the game is to open all the cells of the board which do not contain a bomb. 
 
 You lose if you set off a bomb cell.
