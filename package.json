@@ -1,0 +1,23 @@
+{
+  "name": "react-minesweeper",
+  "author": "lahatme",
+  "version": "0.1.0",
+  "repository": "https://github.com/lahatme/minesweeper_.git",
+  "homepage": "https://lahatme.github.io/minesweeper_",
+  "dependencies": {
+    "deepcopy": "^0.6.3",
+    "gh-pages": "^1.0.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-mdl": "^1.10.3",
+    "sweetalert-react": "^0.4.10"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
