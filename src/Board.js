@@ -16,7 +16,7 @@ class Board extends Component {
             row.map((cell, cellIndex)=> {
                     let cellColor, cellText;
                     if (this.props.superman) {
-                        cell.cellValue === -1 ? cellText = '💣111' :
+                        cell.cellValue === -1 ? cellText = '💣' :
                             cell.cellValue === 0 ? cellText = null :
                                 cellText = cell.cellValue.toString();
                         cell.revealed ?
