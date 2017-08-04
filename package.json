@@ -1,7 +1,7 @@
 {
   "name": "react-minesweeper",
   "author": "lahatme",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": "https://github.com/lahatme/minesweeper_.git",
   "homepage": "https://lahatme.github.io/minesweeper_",
   "dependencies": {
